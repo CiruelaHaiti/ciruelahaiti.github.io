@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Proyectos
-permalink: /projectos/
+permalink: /proyectos/
 ---
 
 Por completar
