@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 001
+title: La elegancia de la lechuza
 author: Ciruela Haití
 ---
 
